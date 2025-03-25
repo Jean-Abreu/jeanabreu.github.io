@@ -9,7 +9,8 @@ on:
 jobs:
   build:
     permissions:
-      contents: read
+      contents: read  # 🛡️ Explicitly set permissions for security
+
     runs-on: ubuntu-latest
 
     steps:
@@ -18,11 +19,11 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.9'  # Specify the Python version you need
+        python-version: '3.9'
 
     - name: Install dependencies
       run: |
-        pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
+        pip install jupyter pandas requests beautifulsoup4 geopy
         pip install getorg --upgrade
 
     - name: Run Jupyter Notebook
