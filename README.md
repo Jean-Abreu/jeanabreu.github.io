@@ -11,5 +11,9 @@ You can clone this repo using:
 
 ```bash
 git clone https://github.com/Jean-Abreu/jeanabreu.github.io.git
+```
 
+## Bug Reports
+
+If you encounter a bug or issue, please [submit an issue here](https://github.com/Jean-Abreu/jeanabreu.github.io/issues).
 
