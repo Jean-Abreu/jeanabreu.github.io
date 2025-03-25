@@ -1,8 +1,10 @@
-Contributions are welcome! 
+## Contribution Requirements
 
-Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
+To ensure consistency and quality, please follow these guidelines when contributing:
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-Fork from master and go from there. Remember that this repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
+- Code must be clean and commented.
+- HTML should follow W3C standards (use a validator like https://validator.w3.org/).
+- CSS must be organized and avoid inline styles where possible.
+- JavaScript should follow standard ES6+ syntax and avoid global variables.
+- Use meaningful commit messages (e.g., "Fix navbar responsiveness on mobile").
 
