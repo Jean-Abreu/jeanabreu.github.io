@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in this project, we encourage you to report it privately.
 
-Please email me at: **your-email@example.com** with details of the issue.
+Please email me at: **jean.abreu490@gmail.com** with details of the issue.
 
 We will investigate and fix the issue as quickly as possible. Please do not open a public issue for security reports.
 
